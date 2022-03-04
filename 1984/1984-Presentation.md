@@ -12,7 +12,8 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 # __1984__
 
 ![bg left:50% fit](https://www.matsuoka-office.com/wp/wp-content/uploads/2020/10/1984-Big-Brother.jpg)
-##### PPT: xty, dz
+###### PPT: 许天烨，丁喆
+###### 汇报人：张星烁，陈家豪，黄奕博
 
 ---
 

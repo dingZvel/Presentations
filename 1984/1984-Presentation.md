@@ -85,7 +85,7 @@ backgroundImage: url('https://cdn.luogu.com.cn/upload/image_hosting/i7dqrguu.png
 
 ---
 ## Reflections
-- Rome was not built in a day, so was the world. In your daily life, you may perceive something are so "1984". I do not mean the political stuff only. There are songs, films, entertainments, even the ways of living exit. They don't force you to take them, but they do have infuent the majority of the society, they are pushing the world to the place without darkness, and steal your mind to concern those meaningless things. Watch out, stop swimming in the unconcious pool before drowning.
+- Rome was not built in a day, so was the world. In your daily life, you may perceive something are so "1984". I do not mean the political stuff only. There are songs, films, entertainments, even the ways of living exit. They don't force you to take them, but they do have influent the majority of the society, they are pushing the world to the place without darkness, and steal your mind to concern those meaningless things. Watch out, stop swimming in the unconcious pool before drowning.
 
 ---
 # Thanks!

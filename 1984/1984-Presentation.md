@@ -6,12 +6,12 @@ size: 16:9
 theme: gaia
 class: lead
 paginate: true
-backgroundImage: url('https://marp.app/assets/hero-background.svg')
+backgroundImage: url('https://cdn.luogu.com.cn/upload/image_hosting/i7dqrguu.png')
 ---
 
 # __1984__
 
-![bg left:50% fit](https://www.matsuoka-office.com/wp/wp-content/uploads/2020/10/1984-Big-Brother.jpg)
+![bg left:50% fit](https://cdn.luogu.com.cn/upload/image_hosting/646qr92k.png)
 ###### PPT: 许天烨，丁喆
 ###### 汇报人：张星烁，陈家豪，黄奕博
 
@@ -61,9 +61,9 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 > He set to work to exercise himself in crimestop. He presented himself with propositions——'the Party says the earth is flat', 'the party says that ice is heavier than water'——and trained himself in not seeing or not understanding the arguments that contradicted them.
 
 ---
-![bg right w:300 h:450](https://www.barringtonstoke.co.uk/wp-content/uploads/2020/12/9781781129692.jpg)
+![bg right w:300 h:450](https://cdn.luogu.com.cn/upload/image_hosting/2q74hnqr.png)
 
-![bg right w:300 h:450](https://i.pinimg.com/originals/0d/2c/09/0d2c0915b3c86c8ac0680f3f6c88731d.jpg)
+![bg right w:300 h:450](https://cdn.luogu.com.cn/upload/image_hosting/ro7khqgw.png)
 ## Comparison
 | | Animal Farm | 1984 |
 |:----:|:-----:| :----: |

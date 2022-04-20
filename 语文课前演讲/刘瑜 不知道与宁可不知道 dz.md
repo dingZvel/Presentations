@@ -1,6 +1,6 @@
 ---
 marp: true
-title: presentation
+title: Presentation
 author: dingZvel
 size: 16:9
 theme: gaia
@@ -14,6 +14,11 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 ![bg left:32% fit](https://marpit.marp.app/marpit.png)
 ##### 丁喆
+
+---
+## ~~大家喜闻乐见的~~紧张激动的提问环节
+1) 本文提到了一个什么理论？
+2) 这个理论一开始是用来形容什么的？
 
 ---
 <!-- paginate: true -->
@@ -136,10 +141,6 @@ https://coolshell.cn/articles/20276.html
 
 ---
 <!--_class: lead-->
-
-# Thanks！
-
 ![bg left:50% fit](https://marpit.marp.app/marpit.png)
+# Thanks！
 ##### 丁喆
-
----
